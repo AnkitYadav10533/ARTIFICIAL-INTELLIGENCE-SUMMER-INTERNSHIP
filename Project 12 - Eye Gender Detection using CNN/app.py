@@ -148,19 +148,22 @@ if uploaded_model is not None:
     st.sidebar.success("✅ Custom model uploaded and saved!")
     st.rerun()
 
-# Load the model helper
+# Load the model helper (using file modification time to bust st.cache_resource when model is updated)
 @st.cache_resource
-def load_trained_model():
-    if os.path.exists(MODEL_FILENAME):
+def load_trained_model(filepath, mtime):
+    if os.path.exists(filepath):
         try:
-            return tf.keras.models.load_model(MODEL_FILENAME)
+            return tf.keras.models.load_model(filepath)
         except Exception as e:
             st.error(f"Error loading model: {e}")
             return None
     return None
 
+# Get model modification time if it exists
+model_mtime = os.path.getmtime(MODEL_FILENAME) if os.path.exists(MODEL_FILENAME) else 0
+
 # Load the compiled CNN model
-model = load_trained_model()
+model = load_trained_model(MODEL_FILENAME, model_mtime)
 
 # Header Section
 st.markdown('<div class="app-title">👁️ Eye Gender Classifier</div>', unsafe_allow_html=True)
