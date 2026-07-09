@@ -177,7 +177,7 @@ with col1:
     if uploaded_image is not None:
         # Display the uploaded image
         image = Image.open(uploaded_image)
-        st.image(image, caption='Uploaded Eye Photograph', use_container_width=True)
+        st.image(image, caption='Uploaded Eye Photograph', width='stretch')
 
 with col2:
     st.markdown('<h4>🔮 Prediction & Insights</h4>', unsafe_allow_html=True)
