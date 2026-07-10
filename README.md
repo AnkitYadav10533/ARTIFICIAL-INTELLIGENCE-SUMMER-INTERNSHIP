@@ -12,7 +12,7 @@
   
   Project 07 - Cat and Dog Image Classifier
   
-      https://imageclassifiercat-vs-dog-lnraaac8xrwhamzoyxkbjb.streamlit.app/
+  LInk  https://imageclassifiercat-vs-dog-lnraaac8xrwhamzoyxkbjb.streamlit.app/
       
  Project 08 - K-Means Clustering
  
