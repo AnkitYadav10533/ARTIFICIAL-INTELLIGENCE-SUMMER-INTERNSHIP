@@ -1,0 +1,106 @@
+Reference Translations for Avengers: Endgame RAG
+
+Format: canonical query => alternative phrasings
+
+Title: Avengers Endgame - Title - What is Title? - Tell me about
+Title. - Explain Title. - What is the movie called? - Movie name
+
+Release Date: April 26 2019 - Release Date - What is Release Date? -
+Tell me about Release Date. - Explain Release Date.
+
+Genre: Action Adventure Science Fiction Superhero - Genre - What is
+Genre? - Tell me about Genre. - Explain Genre.
+
+Runtime: 181 minutes - Runtime - What is Runtime? - Tell me about
+Runtime. - Explain Runtime.
+
+Language: English - Language - What is Language? - Tell me about
+Language. - Explain Language.
+
+Country: United States - Country - What is Country? - Tell me about
+Country. - Explain Country.
+
+Directors: Anthony Russo and Joe Russo - Directors - What is
+Directors? - Tell me about Directors. - Explain Directors. - Who
+directed Avengers Endgame? - Director of Endgame
+
+Producer: Kevin Feige - Producer - What is Producer? - Tell me about
+Producer. - Explain Producer.
+
+Writers: Christopher Markus and Stephen McFeely - Writers - What is
+Writers? - Tell me about Writers. - Explain Writers.
+
+Production Company: Marvel Studios - Production Company - What is
+Production Company? - Tell me about Production Company. - Explain
+Production Company.
+
+Distributor: Walt Disney Studios Motion Pictures - Distributor - What is
+Distributor? - Tell me about Distributor. - Explain Distributor.
+
+Rating: PG-13 - Rating - What is Rating? - Tell me about Rating. -
+Explain Rating.
+
+Main Cast: Robert Downey Jr; Chris Evans; Mark Ruffalo; Chris Hemsworth;
+Scarlett Johansson; Jeremy Renner; Don Cheadle; Paul Rudd; Brie Larson;
+Karen Gillan; Josh Brolin - Main Cast - What is Main Cast? - Tell me
+about Main Cast. - Explain Main Cast. - Who are the actors? - Cast of
+Avengers Endgame
+
+Main Villain: Thanos - Main Villain - What is Main Villain? - Tell me
+about Main Villain. - Explain Main Villain.
+
+MCU Phase: Phase Three - MCU Phase - What is MCU Phase? - Tell me about
+MCU Phase. - Explain MCU Phase.
+
+MCU Film Number: 22 - MCU Film Number - What is MCU Film Number? - Tell
+me about MCU Film Number. - Explain MCU Film Number.
+
+Preceded By: Avengers Infinity War - Preceded By - What is Preceded
+By? - Tell me about Preceded By. - Explain Preceded By.
+
+Followed By: Spider Man Far From Home - Followed By - What is Followed
+By? - Tell me about Followed By. - Explain Followed By.
+
+Plot: The remaining Avengers attempt to undo the Snap by collecting the
+Infinity Stones from the past using time travel. - Plot - What is
+Plot? - Tell me about Plot. - Explain Plot. - What is the story? - Story
+summary
+
+Goal: Restore everyone erased by the Snap. - Goal - What is Goal? - Tell
+me about Goal. - Explain Goal.
+
+Time Travel: The Avengers travel to different points in the past to
+collect the Infinity Stones. - Time Travel - What is Time Travel? - Tell
+me about Time Travel. - Explain Time Travel.
+
+Iron Man: Tony Stark creates time travel and sacrifices himself to
+defeat Thanos. - Iron Man - What is Iron Man? - Tell me about Iron
+Man. - Explain Iron Man.
+
+Captain America: Steve Rogers returns the Infinity Stones and remains in
+the past with Peggy Carter. - Captain America - What is Captain
+America? - Tell me about Captain America. - Explain Captain America.
+
+Thor: Thor joins the final battle after overcoming his guilt. - Thor -
+What is Thor? - Tell me about Thor. - Explain Thor.
+
+Hulk: Bruce Banner becomes Smart Hulk. - Hulk - What is Hulk? - Tell me
+about Hulk. - Explain Hulk.
+
+Black Widow: Natasha Romanoff sacrifices herself for the Soul Stone. -
+Black Widow - What is Black Widow? - Tell me about Black Widow. -
+Explain Black Widow.
+
+Hawkeye: Clint Barton retrieves the Soul Stone. - Hawkeye - What is
+Hawkeye? - Tell me about Hawkeye. - Explain Hawkeye.
+
+Captain Marvel: Carol Danvers helps in the final battle. - Captain
+Marvel - What is Captain Marvel? - Tell me about Captain Marvel. -
+Explain Captain Marvel.
+
+Ant Man: Scott Lang introduces the Quantum Realm solution. - Ant Man -
+What is Ant Man? - Tell me about Ant Man. - Explain Ant Man.
+
+Ending: Tony Stark defeats Thanos at the cost of his own life. -
+Ending - What is Ending? - Tell me about Ending. - Explain Ending. - How
+does the movie end? - Ending explained
