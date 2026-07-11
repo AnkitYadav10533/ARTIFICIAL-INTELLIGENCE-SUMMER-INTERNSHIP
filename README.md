@@ -102,7 +102,7 @@ To bridge the gap between model training and real-world deployment, many of the 
   <tr>
     <td width="50%" valign="top" align="center" style="padding: 15px; border: 1px solid #1E293B;">
       <a href="https://github.com/AnkitYadav10533/ARTIFICIAL-INTELLIGENCE-SUMMER-INTERNSHIP/blob/main/Project%2001%20-%20Google%20Play%20Store%20Case%20Study/Data_Visualisation_in_Python_Case_Study.ipynb">
-        <img src="https://placehold.co/900x500/111827/60A5FA?text=Project+01+-+Google+Play+Store+Case+Study" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
+        <img src="assets/data_analytics_banner.png" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
       </a>
       <h3 align="center">📊 Project 01 - Google Play Store Case Study</h3>
       <p align="center">
@@ -127,7 +127,7 @@ To bridge the gap between model training and real-world deployment, many of the 
     </td>
     <td width="50%" valign="top" align="center" style="padding: 15px; border: 1px solid #1E293B;">
       <a href="https://github.com/AnkitYadav10533/ARTIFICIAL-INTELLIGENCE-SUMMER-INTERNSHIP/blob/main/Project%2002%20-%20Outlier%20Detection%20and%20Removal/2_outliers_z_score_Question.ipynb">
-        <img src="https://placehold.co/900x500/111827/60A5FA?text=Project+02+-+Outlier+Detection+and+Removal" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
+        <img src="assets/data_analytics_banner.png" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
       </a>
       <h3 align="center">🧹 Project 02 - Outlier Detection and Removal</h3>
       <p align="center">
@@ -156,7 +156,7 @@ To bridge the gap between model training and real-world deployment, many of the 
   <tr>
     <td width="50%" valign="top" align="center" style="padding: 15px; border: 1px solid #1E293B;">
       <a href="https://github.com/AnkitYadav10533/ARTIFICIAL-INTELLIGENCE-SUMMER-INTERNSHIP/tree/main/Project%2003%20-%20Canada%20Per%20Capita%20Income%20Prediction">
-        <img src="https://placehold.co/900x500/111827/60A5FA?text=Project+03+-+Canada+Per+Capita+Income+Prediction" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
+        <img src="assets/machine_learning_banner.png" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
       </a>
       <h3 align="center">📈 Project 03 - Canada Per Capita Income Prediction</h3>
       <p align="center">
@@ -180,7 +180,7 @@ To bridge the gap between model training and real-world deployment, many of the 
     </td>
     <td width="50%" valign="top" align="center" style="padding: 15px; border: 1px solid #1E293B;">
       <a href="https://ankityadav10533-linear-regression-deployment--app-ejebfm.streamlit.app/">
-        <img src="https://placehold.co/900x500/111827/60A5FA?text=Project+04+Linear+Regression" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
+        <img src="assets/machine_learning_banner.png" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
       </a>
       <h3 align="center">🚀 Project 04 Linear Regression</h3>
       <p align="center">
@@ -208,7 +208,7 @@ To bridge the gap between model training and real-world deployment, many of the 
   <tr>
     <td width="50%" valign="top" align="center" style="padding: 15px; border: 1px solid #1E293B;">
       <a href="https://srdt-internshipday3-hgpt92r89yxnsqkatuntzp.streamlit.app/">
-        <img src="https://placehold.co/900x500/111827/60A5FA?text=Project+05+-+Logistic+Regression" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
+        <img src="assets/machine_learning_banner.png" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
       </a>
       <h3 align="center">🎯 Project 05 - Logistic Regression</h3>
       <p align="center">
@@ -233,7 +233,7 @@ To bridge the gap between model training and real-world deployment, many of the 
     </td>
     <td width="50%" valign="top" align="center" style="padding: 15px; border: 1px solid #1E293B;">
       <a href="https://employeeretentionprediction-bpozw82yg9edgbgg9nghyl.streamlit.app/">
-        <img src="https://placehold.co/900x500/111827/60A5FA?text=Project+06-+Employee+Retention" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
+        <img src="assets/machine_learning_banner.png" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
       </a>
       <h3 align="center">💼 Project 06- Employee Retention</h3>
       <p align="center">
@@ -262,7 +262,7 @@ To bridge the gap between model training and real-world deployment, many of the 
   <tr>
     <td width="50%" valign="top" align="center" style="padding: 15px; border: 1px solid #1E293B;">
       <a href="https://imageclassifiercat-vs-dog-lnraaac8xrwhamzoyxkbjb.streamlit.app/">
-        <img src="https://placehold.co/900x500/111827/60A5FA?text=Project+07+-+Cat+and+Dog+Image+Classifier" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
+        <img src="assets/computer_vision_banner.png" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
       </a>
       <h3 align="center">🐱 Project 07 - Cat and Dog Image Classifier</h3>
       <p align="center">
@@ -287,7 +287,7 @@ To bridge the gap between model training and real-world deployment, many of the 
     </td>
     <td width="50%" valign="top" align="center" style="padding: 15px; border: 1px solid #1E293B;">
       <a href="https://projectkmeanclustering-nev3i388oaoudk9vnm8da2.streamlit.app/">
-        <img src="https://placehold.co/900x500/111827/60A5FA?text=Project+08+-+K-Means+Clustering" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
+        <img src="assets/machine_learning_banner.png" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
       </a>
       <h3 align="center">🧩 Project 08 - K-Means Clustering</h3>
       <p align="center">
@@ -316,7 +316,7 @@ To bridge the gap between model training and real-world deployment, many of the 
   <tr>
     <td width="50%" valign="top" align="center" style="padding: 15px; border: 1px solid #1E293B;">
       <a href="https://genderclassification-dudjenrcphojawr4apbpvp.streamlit.app/">
-        <img src="https://placehold.co/900x500/111827/60A5FA?text=Project+09+-+Gender+Classification+using+Machine+Learning" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
+        <img src="assets/machine_learning_banner.png" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
       </a>
       <h3 align="center">👤 Project 09 - Gender Classification using Machine Learning</h3>
       <p align="center">
@@ -341,7 +341,7 @@ To bridge the gap between model training and real-world deployment, many of the 
     </td>
     <td width="50%" valign="top" align="center" style="padding: 15px; border: 1px solid #1E293B;">
       <a href="https://projectaimlgenerativeai-e3tqhbvr9jcxdl7nevzaiu.streamlit.app/">
-        <img src="https://placehold.co/900x500/111827/60A5FA?text=Project+10+-+Binary+Image+Classifier+using+Deep+Learning" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
+        <img src="assets/computer_vision_banner.png" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
       </a>
       <h3 align="center">🖼️ Project 10 - Binary Image Classifier using Deep Learning</h3>
       <p align="center">
@@ -369,7 +369,7 @@ To bridge the gap between model training and real-world deployment, many of the 
   <tr>
     <td width="50%" valign="top" align="center" style="padding: 15px; border: 1px solid #1E293B;">
       <a href="https://day-6-covid-19-detection-system-nrevsautatvoabchctfdps.streamlit.app/">
-        <img src="https://placehold.co/900x500/111827/60A5FA?text=Project+11+-+Covid-19+Detection+System+from+Image" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
+        <img src="assets/computer_vision_banner.png" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
       </a>
       <h3 align="center">🏥 Project 11 - Covid-19 Detection System from Image</h3>
       <p align="center">
@@ -394,7 +394,7 @@ To bridge the gap between model training and real-world deployment, many of the 
     </td>
     <td width="50%" valign="top" align="center" style="padding: 15px; border: 1px solid #1E293B;">
       <a href="https://malefemaleeyedetection-nuyp9efmrsppdpcctbyymj.streamlit.app/">
-        <img src="https://placehold.co/900x500/111827/60A5FA?text=Project+12+-+Eye+Gender+Detection+using+CNN" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
+        <img src="assets/computer_vision_banner.png" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
       </a>
       <h3 align="center">👁️ Project 12 - Eye Gender Detection using CNN</h3>
       <p align="center">
@@ -423,7 +423,7 @@ To bridge the gap between model training and real-world deployment, many of the 
   <tr>
     <td width="50%" valign="top" align="center" style="padding: 15px; border: 1px solid #1E293B;">
       <a href="https://drdt-day-7-ragchatbot-v55ebcczwfrdkgdnrf4dsv.streamlit.app/">
-        <img src="https://placehold.co/900x500/111827/60A5FA?text=project+13+-+RAG_Based_ChatBot_of_Samsung_Washing_machine" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
+        <img src="assets/generative_ai_banner.png" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
       </a>
       <h3 align="center">🤖 project 13 - RAG_Based_ChatBot_of_Samsung_Washing_machine</h3>
       <p align="center">
@@ -448,7 +448,7 @@ To bridge the gap between model training and real-world deployment, many of the 
     </td>
     <td width="50%" valign="top" align="center" style="padding: 15px; border: 1px solid #1E293B;">
       <a href="https://avengersendgamereviewfinder-bd24aj7b7cneoxal9tftsu.streamlit.app/">
-        <img src="https://placehold.co/900x500/111827/60A5FA?text=Project+14+-Avengers+Endgame+Review+Finder" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
+        <img src="assets/nlp_sentiment_banner.png" width="100%" style="border-radius: 8px; border: 1px solid #334155;" />
       </a>
       <h3 align="center">🎬 Project 14 -Avengers Endgame Review Finder</h3>
       <p align="center">
@@ -640,7 +640,7 @@ gantt
   <a href="mailto:ankityadav10533@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/AnkitYadav10533" target="_blank">
+  <a href="https://ankityadav10533.github.io/ankit-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
